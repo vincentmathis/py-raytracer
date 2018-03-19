@@ -1,1 +1,1 @@
-![render](big_render.png)
+![render](render_big.png)
